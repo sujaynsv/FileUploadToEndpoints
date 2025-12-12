@@ -1,0 +1,6 @@
+com/fileuploader/service/UploaderService.class
+com/fileuploader/controller/FileUploaderController.class
+com/fileuploader/service/UploaderServiceImpl.class
+com/fileuploader/repository/UploaderRepo.class
+com/fileuploader/FileuploaderApplication.class
+com/fileuploader/model/Student.class
